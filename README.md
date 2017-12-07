@@ -22,7 +22,7 @@ please install nodejs for run this project
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [Zeroxys](https://github.com/zeroxys)
+* **Miguel Zavala** - *Initial work* - [Zeroxys](https://github.com/zeroxys)
 
 ## License
 
